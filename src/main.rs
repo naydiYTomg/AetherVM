@@ -13,5 +13,7 @@ fn main() {
         let path = Path::new(&args[2]);
         println!("Arg is {}, arg value is {}", arg, path.display());
     }
+    // println!("{:X}", 0x124567890102u64 & 0x000FFFFFFFFF)
+
 
 }
