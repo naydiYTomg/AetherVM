@@ -2,7 +2,7 @@
 
 AetherVM is a custom-built virtual machine designed to execute bytecode compiled from the Omnia programming language. It is optimized for performance, portability, and extensibility, with plans to support additional languages in the future, including both custom and existing ones.
 
-This repository also includes a **bytecode-to-machine-code translator/compiler**, allowing for efficient conversion of AetherVM bytecode into native virtual machine code.
+This repository also includes a **bytecode-to-machine-code translator/compiler**, allowing for efficient conversion of bytecode language into native virtual machine code.
 ## Key Features
 
 - **High Performance**: Engineered to execute bytecode with minimal overhead and maximum efficiency.
